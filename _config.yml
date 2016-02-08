@@ -1,0 +1,28 @@
+name: cm
+favicon: null
+layout_spectrum: 0.5189185328781605
+typography_spectrum: 0.0440699327737093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3879779609851539
+  lightness: 0.3875725194811821
+  saturation: 0.9552051122300327
+  rhythmicContrast: 0.48122020065784454
+purpose: []
