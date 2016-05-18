@@ -2,6 +2,7 @@ name: cm
 favicon: null
 layout_spectrum: 0.41112
 typography_spectrum: 0.34762
+title: grid.portfolio
 cta:
   domain: null
   bucket: null
